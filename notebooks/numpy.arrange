@@ -1,0 +1,2 @@
+a=np.arrange
+print(a<=3)
